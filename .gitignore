@@ -15,6 +15,7 @@ Thumbs.db
 
 # Virtual Environment & Environment Variables
 backend/venv/
+backend/.venv/
 backend/.env
 
 # Bytecode & Caches
